@@ -1,6 +1,6 @@
 {
-  "name": "silent-wolf-bot",
-  "version": "2.1.0",
+  "name": "wolfbot",
+  "version": "1.1.5",
   "description": "A WhatsApp bot using Baileys with auto-restart prefix system and heartbeat monitor",
   "keywords": [
     "whatsapp",
@@ -13,16 +13,16 @@
     "monitor",
     "session-protection"
   ],
-  "homepage": "https://github.com/Silent-Wolf7/Silentwolf#readme",
+  "homepage": "https://github.com/Silent-Wo1f/silentwolf#readme",
   "bugs": {
-    "url": "https://github.com/Silent-Wolf7/Silentwolf/issues"
+    "url": "https://github.com/Silent-Wo1f/silentwolf/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Silent-Wolf7/silentwolf.git"
+    "url": "git+https://github.com/Silent-Wo1f/silentwolf.git"
   },
   "license": "MIT",
-  "author": "7silent-wolf",
+  "author": "Silent Wolf",
   "type": "module",
   "main": "index.js",
   "directories": {
