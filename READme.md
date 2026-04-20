@@ -45,9 +45,9 @@
 
 <br>
 
-![GitHub stars](https://img.shields.io/github/stars/Silent-Wo1f/silentwolf?style=for-the-badge&color=darkgreen)
-![GitHub forks](https://img.shields.io/github/forks/Silent-Wo1f/silentwolf?style=for-the-badge&color=darkgreen)
-![GitHub repo size](https://img.shields.io/github/repo-size/Silent-Wo1f/silentwolf?style=for-the-badge&color=darkgreen)
+![GitHub stars](https://img.shields.io/github/stars/SilentWolf-Kenya/silentwolf?style=for-the-badge&color=darkgreen)
+![GitHub forks](https://img.shields.io/github/forks/SilentWolf-Kenya/silentwolf?style=for-the-badge&color=darkgreen)
+![GitHub repo size](https://img.shields.io/github/repo-size/SilentWolf-Kenya/silentwolf?style=for-the-badge&color=darkgreen)
 
 </div>
 
