@@ -1,5 +1,5 @@
 {
-  "name": "wolfbot",
+  "name": "WOLFBOT",
   "version": "1.1.5",
   "description": "A WhatsApp bot using Baileys with auto-restart prefix system and heartbeat monitor",
   "keywords": [
