@@ -1,7 +1,7 @@
 {
   "name": "WOLFBOT",
   "description": "Professional WhatsApp Bot with auto-session authentication",
-  "repository": "https://github.com/Silent-Wo1f/silentwolf",
+  "repository": "https://github.com/SilentWolf-Kenya/silentwolf",
   "build": {
     "builder": "NIXPACKS",
     "buildCommand": "npm install"
